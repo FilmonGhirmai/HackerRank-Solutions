@@ -11,6 +11,7 @@ public class ArrayList {
         Scanner in = new Scanner(System.in);
         java.util.ArrayList<Integer> list = new java.util.ArrayList<>();
 
+
         int n = in.nextInt();
         if(n >= 1 &&  n <= 4000){
             for (int i = 0; i < n; i++) {
