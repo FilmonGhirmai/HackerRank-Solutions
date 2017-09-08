@@ -1,11 +1,13 @@
 package Java.strings;
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.Arrays;
 import java.util.Scanner;
-/**
- * Created by
- * Filmon Ghirmai (skynet) on 8/18/17.
- * Software Developer
- */
+
 public class anagrams {
     static boolean isAnagram(String a, String b) {
         // a and b should be only english alphabets.
