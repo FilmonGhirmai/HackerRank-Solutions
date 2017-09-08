@@ -5,7 +5,6 @@ package Java.BigNumber;
  HackerRank : hackerrank.com/skynet21
  *
  */
-
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,8 +14,6 @@ import java.util.Scanner;
 public class bigDecimal {
    static ArrayList<String> list ;
     public static void main(String[] args) {
-      //  BigDecimal bigDecimal =
-        //Input
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         if(n < 1 || n > 200)
