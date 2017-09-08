@@ -3,8 +3,10 @@ package Java.introduction;
 import java.util.Scanner;
 
 /**
- * Created by Filmon Ghirmai
- * gfilmon
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
  */
 public class Stin {
     public static void main(String[] args) {
