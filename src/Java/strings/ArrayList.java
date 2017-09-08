@@ -1,4 +1,10 @@
 package Java.strings;
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.Scanner;
 public class ArrayList {
     public static void main(String[] args) {
@@ -28,6 +34,7 @@ public class ArrayList {
                 }
             }
         }
+        //Printing to the console.
         for (int i = 0; i < list.size(); i++) {
             System.out.printf(list.get(i).toString());
             System.out.printf(" ");
