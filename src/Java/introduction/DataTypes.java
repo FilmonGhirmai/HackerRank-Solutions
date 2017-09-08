@@ -1,9 +1,11 @@
 package Java.introduction;
-import java.util.Scanner;
 /**
- * Created by skynet on 7/25/17.
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
  *
  */
+import java.util.Scanner;
 public class DataTypes {
     public static void main(String []arg)
     {

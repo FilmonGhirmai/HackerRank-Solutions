@@ -1,10 +1,13 @@
 package Java.introduction;
 
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.Scanner;
 
-/**
- * Created by skynet on 7/24/17.
- */
 public class EndOfFile {
     public static void main(String[] args) {
         int i=1;

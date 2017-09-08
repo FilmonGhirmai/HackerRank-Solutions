@@ -1,4 +1,10 @@
 package Java.introduction;
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.*;
 import java.lang.*;
 /**

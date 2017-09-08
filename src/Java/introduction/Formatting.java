@@ -1,9 +1,11 @@
 package Java.introduction;
-import java.util.Scanner;
 /**
- * Created by skynet on 7/24/17.
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
  *
  */
+import java.util.Scanner;
 public class Formatting {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

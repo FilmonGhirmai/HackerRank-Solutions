@@ -1,15 +1,16 @@
 package Java.introduction;
-
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.text.DateFormat;
 import java.time.LocalDate;
 import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.Scanner;
 
-/**
- * Created by skynet on 7/27/17.
- *
- */
 public class DateTime {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
