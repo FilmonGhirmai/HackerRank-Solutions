@@ -1,14 +1,15 @@
 package DataStructures.Arrays;
 
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- *
- *
- * Created by skynet on 7/17/17.
- */
 public class DaynamicArray {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

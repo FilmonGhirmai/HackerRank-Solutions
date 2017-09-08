@@ -3,11 +3,11 @@ package Java.dataStructure;
 import java.util.ArrayDeque;
 import java.util.HashMap;
 import java.util.Scanner;
-
 /**
- * Created by
- * Filmon Ghirmai (skynet) on 8/27/17.
- * Software Developer
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
  */
 public class JavaStack {
     public static void main(String[] args) {
@@ -52,7 +52,7 @@ public class JavaStack {
      import java.math.*;
      import java.util.regex.*;
 
-     public class Solution {
+     public class JavaMap {
 
      public static void main(String[] args) {
      Scanner scanner = new Scanner(System.in);
@@ -89,7 +89,7 @@ public class JavaStack {
      }
      }
      }
-     Solution 2:
+     JavaMap 2:
      import java.io.*;
      import java.util.*;
      import java.text.*;
@@ -116,7 +116,7 @@ public class JavaStack {
      return stack.empty();
      }
      }
-     class Solution{
+     class JavaMap{
 
      public static void main(String []argh){
      Parser X=new Parser();

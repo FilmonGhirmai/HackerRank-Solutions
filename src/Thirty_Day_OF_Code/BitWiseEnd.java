@@ -1,11 +1,12 @@
 package Thirty_Day_OF_Code;
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.Scanner;
 
-/**
- * Created by
- * Filmon Ghirmai (skynet) on 8/19/17.
- * Software Developer
- */
 public class BitWiseEnd {
     /*
     * @param args - Array of Strings

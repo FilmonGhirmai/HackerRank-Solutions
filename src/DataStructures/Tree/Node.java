@@ -1,6 +1,12 @@
 package DataStructures.Tree;
+/**
+ *   Author : Filmon Ghirmai
+      Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 
-import java.util.*;
+import java.util.Scanner;
 public class Node{
     Node left,right;
     int data;

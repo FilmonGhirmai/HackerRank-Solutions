@@ -1,13 +1,17 @@
 package Java.BigNumber;
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 
 import java.math.BigDecimal;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.Scanner;
 
-/**
- * Created by
- * Filmon Ghirmai (skynet) on 8/25/17.
- * Software Developer
- */
 public class bigDecimal {
    static ArrayList<String> list ;
     public static void main(String[] args) {

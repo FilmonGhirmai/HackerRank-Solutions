@@ -1,13 +1,16 @@
 package Java.strings;
-
-import java.util.*;
-import java.util.ArrayList;
-
 /**
- * Created by
- * Filmon Ghirmai (skynet) on 8/22/17.
- * Software Developer
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
  */
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Scanner;
+
+
 public class JavaSubstringComparisons {
     static ArrayList<String> list = new ArrayList<>();
     public static String getSmallestAndLargest(String s, int k) {

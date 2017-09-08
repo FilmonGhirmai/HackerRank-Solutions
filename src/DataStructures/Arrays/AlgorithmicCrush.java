@@ -1,5 +1,10 @@
 package DataStructures.Arrays;
-
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.Scanner;
 public class AlgorithmicCrush {
     public static void main(String[] args) {

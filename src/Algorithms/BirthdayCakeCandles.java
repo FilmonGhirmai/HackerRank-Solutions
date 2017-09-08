@@ -1,15 +1,13 @@
 package Algorithms;
-
-import java.util.*;
-
 /**
- * Created by skynet on 7/19/17.
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
  */
 
-
-//10
-  //      18 90 90 13 90 75 90 8 90 43
-//
+import java.util.Arrays;
+import java.util.Scanner;
 public class BirthdayCakeCandles {
     static int birthdayCakeCandles(int n, long[] ar) {
         // Complete this function

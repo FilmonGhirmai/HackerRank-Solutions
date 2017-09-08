@@ -1,11 +1,12 @@
 package Java.strings;
-
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.Scanner;
 
-/**
- *
- * Created by skynet on 7/29/17.
- */
 public class substring {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

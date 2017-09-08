@@ -1,10 +1,10 @@
 package Java.dataStructure;
-
 /**
- * Created by
- * Filmon Ghirmai (skynet) on 9/6/17.
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
  */
-
 import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.Scanner;
@@ -34,8 +34,5 @@ public class JavaDeque {
             int num = in.nextInt();
             deque.add(num);
         }
-
-
-
     }
 }

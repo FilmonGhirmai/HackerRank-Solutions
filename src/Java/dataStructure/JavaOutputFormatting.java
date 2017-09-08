@@ -1,12 +1,12 @@
 package Java.dataStructure;
-
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.Scanner;
 
-/**
- * Created by
- * Filmon Ghirmai (skynet) on 8/26/17.
- * Software Developer
- */
 public class JavaOutputFormatting {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

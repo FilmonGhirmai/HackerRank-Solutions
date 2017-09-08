@@ -1,12 +1,12 @@
 package Algorithms;
-
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.Scanner;
 
-/**
- * Created by
- * Filmon Ghirmai (skynet) on 8/6/17.
- * Software Developer
- */
 public class TwoStrings {
 
     static String twoStrings(String s1, String s2) {

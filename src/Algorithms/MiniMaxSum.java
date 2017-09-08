@@ -1,11 +1,13 @@
 package Algorithms;
-
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**
- * Created by skynet on 7/19/17.
- */
 public class MiniMaxSum {
     public static void main(String[] args) {
         long min = 0;

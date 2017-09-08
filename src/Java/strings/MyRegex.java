@@ -1,13 +1,13 @@
 package Java.strings;
-import java.util.Scanner;
 /**
- * Created by
- * Filmon Ghirmai (skynet) on 8/21/17.
- * Software Developer
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
  */
+import java.util.Scanner;
+
 class MyRegex {
-    // 12.12.9.122
-    //String pattern = "(([0-1]?[0-9]?[0-9])|([2]?[0-4]?[0-9])|([2]?[5]?[0-5]))\\.(([0-1]?[0-9]?[0-9])|([2]?[0-4]?[0-9])|([2]?[5]?[0-5]))\\.(([0-1]?[0-9]?[0-9])|([2]?[0-4]?[0-9])|([2]?[5]?[0-5]))\\.(([0-1]?[0-9]?[0-9])|([2]?[0-4]?[0-9])|([2]?[5]?[0-5]))";
     String pattern = "((([0-1]?[0-9]?[0-9])|([2]?[0-4]?[0-9])|([2]?[5]?[0-5]))(\\.|$)){4}";
 }
 

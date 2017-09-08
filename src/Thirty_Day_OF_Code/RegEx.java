@@ -6,11 +6,6 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by
- * Filmon Ghirmai (skynet) on 8/18/17.
- * Software Developer
- */
 public class RegEx {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

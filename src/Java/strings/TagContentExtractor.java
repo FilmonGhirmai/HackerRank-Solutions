@@ -1,12 +1,9 @@
 package Java.strings;
 
+
+//Program is under maintence
 import java.util.Scanner;
 
-/**
- * Created by
- * Filmon Ghirmai (skynet) on 8/22/17.
- * Software Developer
- */
 public class TagContentExtractor {
     public static void main(String[] args){
 

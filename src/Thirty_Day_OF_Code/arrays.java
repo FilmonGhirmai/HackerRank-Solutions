@@ -1,10 +1,12 @@
 package Thirty_Day_OF_Code;
-
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.Scanner;
 
-/**
- * Created by skynet on 7/27/17.
- */
 public class arrays {
     public static void main(String[] args) {
         int arr[] = null;

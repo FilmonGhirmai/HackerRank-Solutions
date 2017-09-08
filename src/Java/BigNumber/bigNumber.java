@@ -1,12 +1,14 @@
 package Java.BigNumber;
-
-import java.awt.*;
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.math.BigInteger;
 import java.util.Scanner;
 
-/**
- * Created by skynet on 8/1/17.
- */
+
 public class bigNumber {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

@@ -1,19 +1,11 @@
 package Algorithms;
-
-import java.util.Scanner;
-
 /**
- * Created by skynet on 7/19/17.
-
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
  */
-// Complete this function
-//07:05:45PM
-
-//12:05:39AM
-//00:05:39
-//    12:00:00AM
-//    04:59:59AM
-//Convert and print the given time in -hour format, where . 00<=hh<=23
+import java.util.Scanner;
 
 public class TimeConversion {
 
@@ -22,7 +14,7 @@ public class TimeConversion {
         String[] time = s.split(":");
         //Remove the AM or PM status from the time;
 
-        time[2] =time[2].substring(0,2);
+        time[2] = time[2].substring(0,2);
         //check if the given time is AM or PM.
         if(s.contains("P")){
             if(Integer.parseInt(time[0]) == 12)

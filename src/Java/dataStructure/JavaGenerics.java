@@ -1,12 +1,13 @@
 package Java.dataStructure;
-
+/**
+ *   Author : Filmon Ghirmai
+    Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.lang.reflect.Method;
 
-/**
- * Created by
- * Filmon Ghirmai (skynet) on 8/31/17.
- * Software Developer
- */
+
 class Printer<E> {
     public void printArray(E[] arr) {
         for (E a : arr) {

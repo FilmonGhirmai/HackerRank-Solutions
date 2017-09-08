@@ -1,19 +1,15 @@
 package Java.introduction;
-/**
+/*
  *   Author : Filmon Ghirmai
      Github : github.com/FilmonGhirmai
  HackerRank : hackerrank.com/skynet21
  *
  */
-import java.util.*;
-import java.lang.*;
-/**
- * Created by skynet on 7/27/17.
- *
- 9
- No
- Vuu Vuuuuu
- */
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Scanner;
+
 public class JavaStringsIntroduction {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

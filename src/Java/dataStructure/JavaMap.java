@@ -1,5 +1,10 @@
 package Java.dataStructure;
-
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -8,7 +13,7 @@ import java.util.Map;
 
 /* Program : Java Map */
 
-public class Solution  {
+public class JavaMap {
     public static void main(String []arg) throws IOException {
 
         BufferedReader br =  new BufferedReader(new InputStreamReader(System.in));

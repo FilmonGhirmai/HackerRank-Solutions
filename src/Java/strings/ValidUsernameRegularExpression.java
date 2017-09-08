@@ -1,12 +1,11 @@
 package Java.strings;
-
-import java.util.Scanner;
-
 /**
- * Created by
- * Filmon Ghirmai (skynet) on 8/22/17.
- * Software Developer
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
  */
+import java.util.Scanner;
 
 class UsernameValidator{
     public static final String regularExpression = "[a-zA-Z][a-zA-Z_0-9]{7,29}";

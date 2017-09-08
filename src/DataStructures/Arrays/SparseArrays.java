@@ -1,11 +1,11 @@
 package DataStructures.Arrays;
-
-import java.util.Scanner;
-
 /**
- * Created by skynet on 7/15/17.
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
  *
  */
+import java.util.Scanner;
 public class SparseArrays {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,9 +1,12 @@
-package Thirty_Day_OF_Code;
-import java.util.Scanner;
 /**
- * Created by skynet on 7/25/17.
+ *   Author : Filmon Ghirmai
+ Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
  *
  */
+package Thirty_Day_OF_Code;
+
+import java.util.Scanner;
 public class MultipleOf {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

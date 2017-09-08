@@ -1,12 +1,14 @@
 package Thirty_Day_OF_Code;
-
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- * Created by skynet on 7/28/17.
- */
 public class Dictionay {
     public static void main(String []argh) {
         Map<String,Integer> map = new HashMap<>();

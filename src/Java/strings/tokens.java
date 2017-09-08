@@ -1,10 +1,13 @@
 package Java.strings;
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 
 import java.util.Scanner;
 
-/**
- * Created by skynet on 7/30/17.
- */
 public class tokens {
     public static void main(String[] args) {
             Scanner scan = new Scanner(System.in);

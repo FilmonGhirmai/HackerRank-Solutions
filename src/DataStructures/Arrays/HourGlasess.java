@@ -1,8 +1,10 @@
 package DataStructures.Arrays; /**
- * Created by Filmon Ghirmai on 7/12/17.
+ /**
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
  *
  */
-
 import java.util.Scanner;
 public class HourGlasess {
     public static void main(String[] args) {

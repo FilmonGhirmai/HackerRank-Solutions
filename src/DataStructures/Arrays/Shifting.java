@@ -1,10 +1,11 @@
 package DataStructures.Arrays;
-
-import java.util.Scanner;
-
 /**
- * Created by skynet on 7/14/17.
+ *   Author : Filmon Ghirmai
+     Github : github.com/FilmonGhirmai
+ HackerRank : hackerrank.com/skynet21
+ *
  */
+import java.util.Scanner;
 public class Shifting {
     public static void main(String[] args) {
         int[] arr = null;
@@ -59,8 +60,6 @@ public class Shifting {
         }
 
         //printing array
-//        System.out.println("original array is :" + DataStructures.Arrays.toString(arr));
-//        System.out.println("shifted  array is :" + DataStructures.Arrays.toString(temp));
         for (int i = 0; i < temp.length; i++) {
             System.out.print(temp[i]);
             System.out.print(" ");
