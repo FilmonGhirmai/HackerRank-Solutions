@@ -2,10 +2,11 @@ package Java.introduction;
 
 /**
  *   Author : Filmon Ghirmai
- Github : github.com/FilmonGhirmai
+     Github : github.com/FilmonGhirmai
  HackerRank : hackerrank.com/skynet21
  *
  */
+
 import java.util.Scanner;
 public class Stin {
     public static void main(String[] args) {
