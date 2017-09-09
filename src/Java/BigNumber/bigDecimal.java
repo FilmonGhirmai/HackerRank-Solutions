@@ -37,7 +37,7 @@ public class bigDecimal {
         for (int i = 0; i < n; i++) {
             System.out.println(s[i]);
         }
-
+        sc.close();
     }
 
 }
