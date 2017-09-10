@@ -10,15 +10,6 @@ import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
-/**
- * Created by skynet on 8/2/17.
- * US: $12,324.13
- India: Rs.12,324.13
- China: ￥12,324.13
- France: 12 324,13 €
- *
- *
- */
 public class JavaCurrencyFormatter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
