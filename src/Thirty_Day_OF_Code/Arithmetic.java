@@ -14,7 +14,7 @@ import java.util.Scanner;
  20
  8
  */
-public class Arithemtic {
+public class Arithmetic {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         double mealCost  = in.nextDouble();

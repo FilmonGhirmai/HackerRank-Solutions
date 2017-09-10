@@ -7,7 +7,7 @@ package Thirty_Day_OF_Code;
  */
 import java.util.Scanner;
 
-public class arrays {
+public class Arrays {
     public static void main(String[] args) {
         int arr[] = null;
         Scanner in = new Scanner(System.in);
