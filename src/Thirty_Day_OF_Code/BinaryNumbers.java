@@ -30,16 +30,16 @@ public class BinaryNumbers {
          ArrayList<Integer> list = new ArrayList<>();
          if (counter < bin.length()) {
              if (bin.charAt(start) == '1') {
-                 if(bin.substring(start, bin.indexOf('0')).isEmpty()){
+                 if(bin.JavaSubstring(start, bin.indexOf('0')).isEmpty()){
 
                  }
-                 String subString = bin.substring(start, bin.indexOf('0'));
+                 String subString = bin.JavaSubstring(start, bin.indexOf('0'));
                  start = bin.indexOf('0');
                  list.add(subString.length());
                  counter = start;
                  return  findAllSeq(start);
              } else {
-                 String subString = bin.substring(start ,bin.indexOf('1'));
+                 String subString = bin.JavaSubstring(start ,bin.indexOf('1'));
                  start = bin.indexOf('1',start);
                  counter = start;
                  return  findAllSeq(start);

@@ -11,7 +11,7 @@ class MyRegex {
     String pattern = "((([0-1]?[0-9]?[0-9])|([2]?[0-4]?[0-9])|([2]?[5]?[0-5]))(\\.|$)){4}";
 }
 
-class Solution{
+class JavaRegex{
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         while(in.hasNext()){

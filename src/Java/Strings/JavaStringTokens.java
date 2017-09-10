@@ -8,7 +8,7 @@ package Java.Strings;
 
 import java.util.Scanner;
 
-public class tokens {
+public class JavaStringTokens {
     public static void main(String[] args) {
             Scanner scan = new Scanner(System.in);
             String s = scan.nextLine();
