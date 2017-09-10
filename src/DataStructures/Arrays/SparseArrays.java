@@ -1,7 +1,7 @@
 package DataStructures.Arrays;
 /**
  *   Author : Filmon Ghirmai
-     Github : github.com/FilmonGhirmai
+     Github : github.com/filmonghirmai
  HackerRank : hackerrank.com/skynet21
  *
  */

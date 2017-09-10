@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 /**
  *   Author : Filmon Ghirmai
-     Github : github.com/FilmonGhirmai
+     Github : github.com/filmonghirmai
  HackerRank : hackerrank.com/skynet21
  *
  */
