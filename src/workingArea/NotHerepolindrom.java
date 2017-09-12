@@ -1,4 +1,4 @@
-package Java.Strings;
+package workingArea;
 
 /**
  *   Author : Filmon Ghirmai
@@ -9,7 +9,7 @@ package Java.Strings;
 
 import java.util.Scanner;
 
-public class polindrom {
+public class NotHerepolindrom {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String A=sc.next();

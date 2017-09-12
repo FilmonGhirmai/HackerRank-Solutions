@@ -1,7 +1,7 @@
 package Thirty_Day_OF_Code;
 /**
  *   Author : Filmon Ghirmai
- Github : github.com/filmonghirmai
+     Github : github.com/filmonghirmai
  HackerRank : hackerrank.com/skynet21
  *
  */

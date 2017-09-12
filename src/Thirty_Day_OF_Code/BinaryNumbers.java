@@ -27,7 +27,7 @@ public class BinaryNumbers {
 
     /* public static  int  findAllSeq(int st) {
          int start = st;
-         ArrayList<Integer> list = new ArrayList<>();
+         NoHereArrayList<Integer> list = new NoHereArrayList<>();
          if (counter < bin.length()) {
              if (bin.charAt(start) == '1') {
                  if(bin.JavaSubstring(start, bin.indexOf('0')).isEmpty()){

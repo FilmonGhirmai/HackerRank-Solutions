@@ -1,5 +1,10 @@
 package Thirty_Day_OF_Code;
-
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/filmonghirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
