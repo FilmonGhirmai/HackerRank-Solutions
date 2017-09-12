@@ -5,13 +5,12 @@ package Java.BigNumber;
  HackerRank : hackerrank.com/skynet21
  *
  */
-import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
-public class bigDecimal {
+public class JavaBigDecimal {
    static ArrayList<String> list ;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -28,8 +27,8 @@ public class bigDecimal {
         sc.close();
         //Write your code here
         Comparator<String> myComparator = (o1, o2) -> {
-            BigDecimal a = new BigDecimal(o1);
-            BigDecimal b = new BigDecimal(o2);
+            java.math.BigDecimal a = new java.math.BigDecimal(o1);
+            java.math.BigDecimal b = new java.math.BigDecimal(o2);
             return b.compareTo(a); // descending order.
         };
         Arrays.sort(s,0,n,myComparator);
