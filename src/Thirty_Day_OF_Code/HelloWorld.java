@@ -5,8 +5,10 @@ package Thirty_Day_OF_Code;
  HackerRank : hackerrank.com/skynet21
  *
  */
-public class Hello {
+
+// Day 0: Hello, World.
+public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello,World");
+        System.out.println("HelloWorld,World");
     }
 }

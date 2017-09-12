@@ -9,7 +9,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Dictionay {
+// Day 8: Dictionaries and Maps
+public class DictionariesAndMaps {
     public static void main(String []argh) {
         Map<String,Integer> map = new HashMap<>();
         Scanner in = new Scanner(System.in);

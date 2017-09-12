@@ -7,11 +7,8 @@ package Thirty_Day_OF_Code;
  */
 import java.util.Scanner;
 
-/**
- * Created by skynet on 7/21/17.
- *
- */
-//Data types.
+// Day 1: Data Types
+
 public class DataTypes {
     public static void main(String[] args) {
         int i;

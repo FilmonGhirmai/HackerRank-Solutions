@@ -6,6 +6,8 @@ package Thirty_Day_OF_Code;
  *
  */
 import java.util.Scanner;
+
+// Day 10: Binary Numbers
 public class BinaryNumbers {
 
     public static void main(String[] args) {

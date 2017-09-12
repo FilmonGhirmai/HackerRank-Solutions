@@ -7,7 +7,8 @@ package Thirty_Day_OF_Code;
  */
 import java.util.Scanner;
 
-public class StringToInteger {
+// Day 16: Exceptions - String to Integer
+public class ExceptionsStringToInteger {
     public static void main(String[] args) {
         try {
             Scanner in = new Scanner(System.in);

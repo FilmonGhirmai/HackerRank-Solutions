@@ -6,13 +6,12 @@ package Thirty_Day_OF_Code;
  *
  */
 import java.util.Scanner;
-/**
-* A program that demonstrate <b>class</b> and <b>class methods</b>.
-*/
-public class Person {
+
+// Day 4: Class vs. Instance
+public class PersonClassVsInstance {
     private int age;
 
-    public Person(int initialAge) {
+    public PersonClassVsInstance(int initialAge) {
         // Add some more code to run some checks on initialAge
         if(initialAge < 0){
             this.age = 0;
@@ -56,7 +55,7 @@ public class Person {
         int T = sc.nextInt();
         for (int i = 0; i < T; i++) {
             int age = sc.nextInt();
-            Person p = new Person(age);
+            PersonClassVsInstance p = new PersonClassVsInstance(age);
             p.amIOld();
             for (int j = 0; j < 3; j++) {
                 p.yearPasses();
