@@ -7,6 +7,7 @@ package Thirty_Day_OF_Code;
  */
 import java.util.Scanner;
 
+//Day 26: Nested Logic
 public class NestedLogic {
     public static void main(String[] args) {
         Scanner in  = new Scanner(System.in);

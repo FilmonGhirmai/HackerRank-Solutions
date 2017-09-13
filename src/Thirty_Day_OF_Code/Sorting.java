@@ -1,31 +1,29 @@
 package Thirty_Day_OF_Code;
+
+import java.util.Scanner;
+
 /**
  *   Author : Filmon Ghirmai
      Github : github.com/filmonghirmai
  HackerRank : hackerrank.com/skynet21
  *
  */
-import java.util.Scanner;
+// Day 20: Sorting
 
-/**
- * Created by
- * Filmon Ghirmai (skynet) on 8/10/17.
- * Software Developer
- */
-public class BubbleSort {
+public class Sorting {
 
     public static void main(String[] args) {
-            Scanner in = new Scanner(System.in);
-            int n = in.nextInt();
-            int[] a = new int[n];
-            if(n < 2 || n > 600)
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        int[] a = new int[n];
+        if(n < 2 || n > 600)
+            System.exit(0);
+        for(int a_i=0; a_i < n; a_i++){
+            int input = in.nextInt();
+            if(input < 1 || input > 2000000)
                 System.exit(0);
-            for(int a_i=0; a_i < n; a_i++){
-                int input = in.nextInt();
-                if(input < 1 || input > 2000000)
-                    System.exit(0);
-                a[a_i] = input;
-            }
+            a[a_i] = input;
+        }
 
 
         int totalSwaps = 0;
@@ -51,6 +49,7 @@ public class BubbleSort {
         System.out.println("First Element: " + a[0]);
         System.out.println("Last Element: " + a[n-1]);
 
-   }
+    }
 
 }
+

@@ -6,8 +6,12 @@ package Thirty_Day_OF_Code;
  HackerRank : hackerrank.com/skynet21
  *
  */
-public class ClassVsInstance {
-    public static void main(String[] args) {
 
+class Node {
+    Node left,right;
+    int data;
+    Node(int data){
+        this.data=data;
+        left=right=null;
     }
 }

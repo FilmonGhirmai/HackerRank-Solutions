@@ -2,6 +2,12 @@ package Thirty_Day_OF_Code;
 
 import java.util.Scanner;
 
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/filmonghirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
 // Day 17: More Exceptions
 
 class Calculator {

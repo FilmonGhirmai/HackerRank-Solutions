@@ -7,7 +7,9 @@ package Thirty_Day_OF_Code;
  */
 import java.util.Scanner;
 
-public class BitWiseEnd {
+// Day 29: Bitwise AND
+
+public class BitWiseAnd {
     /*
     * @param args - Array of Strings
     * */

@@ -6,7 +6,7 @@ package Thirty_Day_OF_Code;
  *
  */
 import java.util.Scanner;
-
+// Day 25: Running Time and Complexity.
 public class RunningTimeComplexity {
 
     public static String isPrime(int num){

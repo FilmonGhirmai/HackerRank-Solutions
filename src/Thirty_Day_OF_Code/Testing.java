@@ -6,8 +6,6 @@ package Thirty_Day_OF_Code;
  HackerRank : hackerrank.com/skynet21
  *
  */
-public class ClassVsInstance {
-    public static void main(String[] args) {
-
-    }
+// Day 27: Testing
+public class Testing {
 }
