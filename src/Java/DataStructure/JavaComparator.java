@@ -1,19 +1,19 @@
 package Java.DataStructure;
-
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.Scanner;
 /**
  *   Author : Filmon Ghirmai
      Github : github.com/filmonghirmai
  HackerRank : hackerrank.com/skynet21
  *
  */
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.Scanner;
+
 class Checker implements Comparator<Player> {
     @Override
     public int compare(Player a, Player b) {
         if(a.score != b.score){
-            return (a.score < b.score ? 1 : -1);
+            return (a.score < b.score ? 100 : -100);
         }else{
             return a.name.compareTo(b.name);
         }
