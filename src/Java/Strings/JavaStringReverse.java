@@ -8,7 +8,7 @@ package Java.Strings;
 
 import java.util.Scanner;
 
-public class JavaStringRevers {
+public class JavaStringReverse {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String A=sc.next();

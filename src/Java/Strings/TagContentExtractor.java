@@ -1,8 +1,8 @@
 package Java.Strings;
 
-
-//Program is under maintence
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class TagContentExtractor {
     public static void main(String[] args){
@@ -14,19 +14,20 @@ public class TagContentExtractor {
 <Amee>safat codes like a ninja</amee>
 <SA premium>Imtiaz has a secret crush</SA premium>
         * */
+
         Scanner in = new Scanner(System.in);
         int testCases = Integer.parseInt(in.nextLine());
-        while(testCases>0){
+        while(testCases > 0){
             String line = in.nextLine();
 
             //Write your code here
             String regex = "<[a-zA-Z0-9]>\\.</[a-zA-Z0-9]";
-            if(line.matches(regex))
-            System.out.println();
+            Pattern pattern = Pattern.compile(regex);
+            Matcher matcher = pattern.matcher(line);
+            if(matcher.matches())
+                System.out.println("it matches");
             else
-                System.out.println("Invalide");
-
-
+                System.out.println("does not match");
             testCases--;
         }
     }
