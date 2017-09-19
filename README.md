@@ -1,5 +1,7 @@
 # HackerRank-Solutions
-<div align="center"><img src="hr.png"></div>
+
+<body>
+	<div align="center"><img src="hr.png"></div>
 	<div align="center"><u>Hacker Rank Solution</u></div>
 	<div align="center"><b>Filmon Ghirmai</b></div>
 	<div align="center">Github     : filmonghirmai</div>
@@ -20,7 +22,7 @@
 </ul>
 
 
-<div><b><font size="5">10 Days Of Stastics</font><b></div>
+<div><b><font size="5">10 Days Of Stastics</font></b></div>
 <table border="1"></table>
 <br/>
 
@@ -29,13 +31,12 @@
 </p>
 <br/>
 <table border="1" cellpadding="5">
-	<thead>
-	   <tr>
+	<thead><tr>
 		<th>Day</th>
 		<th width="60%">Challenge Name</th>
 		<th>Solution</th>
 		<th>Point</th>
-	  </tr>
+	</tr>
 	</thead>
 	<tbody>
 		<tr>
@@ -88,7 +89,7 @@
 		</tr>
 		<tr>
 			<td>Day 8</td>
-			<td><a href=""></a>Dictionaries and Map</td>
+			<td><a href=""></a>Dictionaries and Map<a></td>
 			<td><a href="">Solution.java</a></td>
 			<td align="center"></td>
 		</tr>
