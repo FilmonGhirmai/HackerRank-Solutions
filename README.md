@@ -29,12 +29,13 @@
 </p>
 <br/>
 <table border="1" cellpadding="5">
-	<thead><tr>
+	<thead>
+	   <tr>
 		<th>Day</th>
-		<th width="70%">Challenge Name</th>
+		<th width="60%">Challenge Name</th>
 		<th>Solution</th>
 		<th>Point</th>
-	</tr>
+	  </tr>
 	</thead>
 	<tbody>
 		<tr>
@@ -214,10 +215,5 @@
 			<td><a href="">Solution.java</a></td>
 			<td align="center"></td>
 		</tr>
-		
-
-		
-		
-
-
 	</tbody>
+</table>
