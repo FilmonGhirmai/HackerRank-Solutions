@@ -23,20 +23,17 @@ public class JavaDequeue {
         int n = in.nextInt();
         int m = in.nextInt();
 
-        if(m < 0 || m > 100000 || n < 0 || n >100000)
+        if(m < 0 || m > 100000 || n < 0 || n >100000) System.exit(0);
         for (int i = 0; i < n; i++) {
             int input = in.nextInt();
             if(input < 0 || input >10000000)System.exit(0);
             if (deque.size() == m) {
-                System.out.println("deque " + deque);
                 deque.addLast(input);
                 deque.pollFirst();
                 set.addAll(deque);
                 if(set.size() > size){
                     size = set.size();
-                    System.out.println("set : " + set.toString());
                     set.clear();
-                    System.out.println(" size : " + size);
                 }
                 set.clear();
             }
@@ -45,7 +42,6 @@ public class JavaDequeue {
                 set.clear();
             }
         }
-        System.out.println(deque);
         set.addAll(deque);
         if(set.size() > size) size = set.size();
         System.out.println(size);
