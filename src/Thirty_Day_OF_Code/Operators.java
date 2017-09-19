@@ -10,6 +10,7 @@ import java.util.Scanner;
  */
 
 // Day 2: Operators
+
 public class Operators {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
