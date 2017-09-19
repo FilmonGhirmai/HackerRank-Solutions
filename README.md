@@ -42,7 +42,7 @@
 		<tr>
 			<td>Day 0</td>
 			<td><a href="">Hello,World</a></td>
-			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/Thirty_Day_OF_Code/HelloWorld.java">Solution.java</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/Thirty_Days_OF_Code/HelloWorld.java">Solution.java</a></td>
 			<td align="center">5</td>
 		</tr>
 		<tr>
