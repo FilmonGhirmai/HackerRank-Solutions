@@ -47,7 +47,7 @@
 		</tr>
 		<tr>
 			<td>Day 1</td>
-			<td><a href="">Data Tyes</a></td>
+			<td><a href="">Data Types</a></td>
 			<td><a href="">Solution.java</a></td>
 			<td align="center">5</td>
 		</tr>

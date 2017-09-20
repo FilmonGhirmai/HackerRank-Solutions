@@ -32,7 +32,6 @@ public class JavaBigDecimal {
             return b.compareTo(a); // descending order.
         };
         Arrays.sort(s,0,n,myComparator);
-
         for (int i = 0; i < n; i++) {
             System.out.println(s[i]);
         }
