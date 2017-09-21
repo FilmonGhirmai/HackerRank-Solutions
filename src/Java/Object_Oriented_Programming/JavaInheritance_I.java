@@ -7,14 +7,14 @@ package Java.Object_Oriented_Programming;
  */
 
 // Base class Animal
-class Aninaml {
+class Animal {
     public void walk() {
         System.out.println("I am walking");
     }
 }
 
 // sub class Bird
-class Bird extends Aninaml {
+class Bird extends Animal {
 
     // Bird class will inherit the walk() method
 

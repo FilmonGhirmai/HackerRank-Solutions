@@ -89,7 +89,7 @@
 		</tr>
 		<tr>
 			<td>Day 8</td>
-			<td><a href=""></a>Dictionaries and Map<a></td>
+			<td><a href="">Dictionaries and Map<a></td>
 			<td><a href="">Solution.java</a></td>
 			<td align="center">30</td>
 		</tr>
@@ -136,7 +136,7 @@
 			<td>Day 16</td>
 			<td><a href="">Exception - String to Integer</a></td>
 			<td><a href="">Solution.java</a></td>
-			<td align="center"></td>
+			<td align="center">30/td>
 		</tr>
 		<tr>
 			<td>Day 17</td>
