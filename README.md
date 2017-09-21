@@ -8,7 +8,7 @@
 	<div align="center">hackerrank : skynet21</div>
 	</div>
 
-<p>Catatories
+<p>Categories
 <ul>
 	<li><a href="">10 Days of Statistics</a></li>
 	<li><a href="">30 Days of Code</a></li>
