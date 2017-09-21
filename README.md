@@ -206,7 +206,7 @@
 		</tr>
 		<tr>
 			<td>Day 28</td>
-			<td><a href="">ReEx,Pattern and Intor to Databases</a></td>
+			<td><a href="">ReEx,Pattern and Intro to Databases</a></td>
 			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/Thirty_Day_OF_Code/RegEx.java">Solution.java</a></td>
 			<td align="center">30</td>
 		</tr>
