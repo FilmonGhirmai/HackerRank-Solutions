@@ -136,7 +136,7 @@
 			<td>Day 16</td>
 			<td><a href="">Exception - String to Integer</a></td>
 			<td><a href="">Solution.java</a></td>
-			<td align="center">30/td>
+			<td align="center">30</td>
 		</tr>
 		<tr>
 			<td>Day 17</td>
