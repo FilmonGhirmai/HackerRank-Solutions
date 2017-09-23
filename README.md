@@ -1,7 +1,7 @@
 # HackerRank-Solutions
 
 <body>
-	<div align="center"><img src="hr.png"></div>
+	<div align="center"><img src="https://user-images.githubusercontent.com/17745522/30770987-a4097aee-a046-11e7-88b2-4d6ab2d702bb.png" width="15%"></img> </div>
 	<div align="center"><u>Hacker Rank Solution</u></div>
 	<div align="center"><b>Filmon Ghirmai</b></div>
 	<div align="center">Github     : filmonghirmai</div>
