@@ -1,0 +1,10 @@
+/**
+ *   Author : Filmon Ghirmai
+     Github : github.com/filmonghirmai
+ HackerRank : hackerrank.com/skynet21
+ *
+ */
+
+Day 3: Cards of the Same Suit
+
+
