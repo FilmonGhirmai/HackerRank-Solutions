@@ -23,7 +23,193 @@
 
 
 <div><b><font size="5"><a href="www.hackerrank.com/" title="">10 Days Of Statistics</a></font></b></div>
-<table border="1"></table>
+<table border="1" cellpadding="5">
+	<thead><tr>
+		<th>Day</th>
+		<th width="60%">Challenge Name</th>
+		<th>Solution</th>
+		<th>Point</th>
+	</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Day 0</td>
+			<td><a href="">Mean, Median, and Mode</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 0</td>
+			<td><a href="">Weighted Mean</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 1</td>
+			<td><a href="">Quartiles</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 1</td>
+			<td><a href="">Interquartile Range</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 1</td>
+			<td><a href="">Standard Deviation</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 2</td>
+			<td><a href="">Basic Probability</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 2</td>
+			<td><a href="">More Dice</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 2</td>
+			<td><a href="">Compound Event Probability</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 3</td>
+			<td><a href="">Conditional Probability</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 3</td>
+			<td><a href="">Cards of the Same Suit</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+
+		<tr>
+			<td>Day 3</td>
+			<td><a href="">Drawing Marbles</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 4</td>
+			<td><a href="">Binomial Distribution I<a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 4</td>
+			<td><a href="">Binomial Distribution II</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 4</td>
+			<td><a href="">Geometric Distribution I</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 4</td>
+			<td><a href="">Geometric Distribution II</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 5</td>
+			<td><a href="">Poisson Distribution I</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+
+		<tr>
+			<td>Day 5</td>
+			<td><a href="">Poisson Distribution II</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+
+		<tr>
+			<td>Day 5</td>
+			<td><a href="">Normal Distribution I</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td>Day 5</td>
+			<td><a href="">Normal Distribution II</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+
+		<tr>
+			<td>Day 6</td>
+			<td><a href="">The Central Limit Theorem I</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+
+		<tr>
+			<td>Day 6</td>
+			<td><a href="">The Central Limit Theorem II</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+
+		<tr>
+			<td>Day 6</td>
+			<td><a href="">The Central Limit Theorem III</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+
+		<tr>
+			<td>Day 7</td>
+			<td><a href="">Pearson Correlation Coefficient I</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+
+		<tr>
+			<td>Day 7</td>
+			<td><a href="">Spearman's Rank Correlation Coefficient</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+
+		<tr>
+			<td>Day 8</td>
+			<td><a href="">Least Square Regression Line</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+
+		<tr>
+			<td>Day 8</td>
+			<td><a href="">Pearson Correlation Coefficient II</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+
+		<tr>
+			<td>Day 9</td>
+			<td><a href="">Multiple Linear Regression</a></td>
+			<td><a href="https://github.com/filmonghirmai/HackerRank-Solutions/blob/master/src/_10Days_Of_Statistics/.java">Solution.java</a></td>
+			<td align="center">30</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
 <br/>
 
 <div><b><font size="5"><a href="www.hackerrank.com/" title="HakerRank">30 Days Of Code</a></font></b></div>
