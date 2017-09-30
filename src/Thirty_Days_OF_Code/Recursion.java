@@ -10,6 +10,7 @@ import java.util.Scanner;
 
 // Day 9: Recursion
 public class Recursion {
+
     static int factorial(int n) {
         // Complete this function
         if(n > 1 ){

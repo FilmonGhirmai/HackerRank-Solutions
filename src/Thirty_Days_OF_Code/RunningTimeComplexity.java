@@ -10,7 +10,6 @@ import java.util.Scanner;
 public class RunningTimeComplexity {
 
     public static String isPrime(int num){
-        int halfNum = num/2;
         int root = (int) Math.sqrt(num);
         if(num == 1 )
             return "Not prime";
