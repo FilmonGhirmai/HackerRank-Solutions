@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6ea6172-841b-4a91-a7cc-fb73e4fb3932" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HackerRank-Solutions/Thirty_Days_OF_Code/Recursion.class" afterPath="$PROJECT_DIR$/out/production/HackerRank-Solutions/Thirty_Days_OF_Code/Recursion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HackerRank-Solutions/workingArea/stackTest.class" afterPath="$PROJECT_DIR$/out/production/HackerRank-Solutions/workingArea/stackTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workingArea/stackTest.java" afterPath="$PROJECT_DIR$/src/workingArea/stackTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_10Days_Of_Statistics/Binomial_Distribution_I.java" afterPath="$PROJECT_DIR$/src/_10Days_Of_Statistics/Binomial_Distribution_I.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="src/workingArea/" />
@@ -72,15 +72,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BST.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/workingArea/BST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="203">
+              <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
               <folding>
                 <element signature="e#1053#1054#0" expanded="true" />
                 <element signature="e#1080#1081#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/sample.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayListDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/workingArea2/ArrayListDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -142,8 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Java/Object_Oriented_Programming/JavaInheritance_I.java" />
-        <option value="$PROJECT_DIR$/src/Java/Exception_Handling/JavaExceptionHandling_Trycatch.java" />
         <option value="$PROJECT_DIR$/src/Java/Advanced/JavaVarargs_SimpleAddition.java" />
         <option value="$PROJECT_DIR$/src/Java/Exception_Handling/JavaExceptionHandling.java" />
         <option value="$PROJECT_DIR$/src/Java/Advanced/JavaReflection_Attributes.java" />
@@ -175,7 +193,6 @@
         <option value="$PROJECT_DIR$/src/_10Days_Of_Statistics/Cards_of_the_Same_Suit.txt" />
         <option value="$PROJECT_DIR$/src/workingArea2/Solution1.java" />
         <option value="$PROJECT_DIR$/src/workingArea2/factorial.java" />
-        <option value="$PROJECT_DIR$/src/_10Days_Of_Statistics/Binomial_Distribution_I.java" />
         <option value="$PROJECT_DIR$/src/Thirty_Days_OF_Code/RunningTimeComplexity.java" />
         <option value="$PROJECT_DIR$/src/_10Days_Of_Statistics/Geometric_Distribution_I.java" />
         <option value="$PROJECT_DIR$/src/_10Days_Of_Statistics/Geometric_Distribution_II.java" />
@@ -193,6 +210,9 @@
         <option value="$PROJECT_DIR$/src/workingArea/stackTest.java" />
         <option value="$PROJECT_DIR$/src/workingArea/BST.java" />
         <option value="$PROJECT_DIR$/src/workingArea/HashTableDemo.java" />
+        <option value="$PROJECT_DIR$/src/_10Days_Of_Statistics/Binomial_Distribution_I.java" />
+        <option value="$PROJECT_DIR$/files/sample.txt" />
+        <option value="$PROJECT_DIR$/src/workingArea2/ArrayListDemo.java" />
       </list>
     </option>
   </component>
@@ -269,7 +289,7 @@
               <item name="Hackerrank-Proj" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hackerrank-Proj" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="workingArea" type="462c0819:PsiDirectoryNode" />
+              <item name="workingArea2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -593,13 +613,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499843383172</updated>
-    </task>
-    <task id="LOCAL-00010" summary="making changes in  the program comment">
-      <created>1504868553704</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1504868553704</updated>
     </task>
     <task id="LOCAL-00011" summary="making changes in  the program comment.">
       <created>1504868693681</created>
@@ -937,7 +950,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507614101341</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="adding content to the README.md file">
+      <created>1507614109925</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1507614109925</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TodoView">
@@ -955,7 +975,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="720" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32692307" sideWeight="0.49676898" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2976" sideWeight="0.46796876" order="7" side_tool="false" content_ui="tabs" />
@@ -963,10 +982,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2688" sideWeight="0.5129241" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.392" sideWeight="0.52342486" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48" sideWeight="0.48707592" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48" sideWeight="0.48707592" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2656" sideWeight="0.49676898" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17285945" sideWeight="0.48418158" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33279485" sideWeight="0.48418158" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.48731884" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4864" sideWeight="0.6292407" order="3" side_tool="false" content_ui="tabs" />
@@ -1084,20 +1103,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/workingArea2/toChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/Strings/JavaStringReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java/Advanced/CovariantReturnTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -1270,13 +1275,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_10Days_Of_Statistics/Binomial_Distribution_I.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1480,14 +1478,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_10Days_Of_Statistics/Binomial_Distribution_I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/workingArea/BST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="203">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
           <folding>
             <element signature="e#1053#1054#0" expanded="true" />
             <element signature="e#1080#1081#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/sample.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workingArea2/ArrayListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

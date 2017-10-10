@@ -34,6 +34,7 @@ public class Binomial_Distribution_I {
             return (getCombination(n,x) * Math.pow(p,x) * Math.pow(q,n-x));
     }
 
+
     public static void main(String[] args) {
         double probability_at_least_3_boys = 0;
 
