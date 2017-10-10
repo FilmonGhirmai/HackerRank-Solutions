@@ -43,12 +43,13 @@
 </p>
 <br/>
 <table border="1" cellpadding="5">
-	<thead><tr>
-		<th>Day</th>
-		<th width="60%">Challenge Name</th>
-		<th>Solution</th>
-		<th>Point</th>
-	</tr>
+	<thead>
+        <tr>
+            <th>Day</th>
+            <th width="60%">Challenge Name</th>
+            <th>Solution</th>
+            <th>Point</th>
+        </tr>
 	</thead>
 	<tbody>
 		<tr>
