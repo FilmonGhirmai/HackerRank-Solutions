@@ -12,7 +12,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/workingArea/Node.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HackerRank-Solutions/Thirty_Days_OF_Code/Recursion.class" afterPath="$PROJECT_DIR$/out/production/HackerRank-Solutions/Thirty_Days_OF_Code/Recursion.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thirty_Days_OF_Code/Recursion.java" afterPath="$PROJECT_DIR$/src/Thirty_Days_OF_Code/Recursion.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workingArea/stackTest.java" afterPath="$PROJECT_DIR$/src/workingArea/stackTest.java" />
     </list>
@@ -82,8 +81,8 @@
       <file leaf-file-name="BST.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/workingArea/BST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+            <state relative-caret-position="241">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
               <folding>
                 <element signature="e#1053#1054#0" expanded="true" />
                 <element signature="e#1080#1081#0" expanded="true" />
@@ -291,7 +290,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
     <property name="SearchEverywhereHistoryKey" value="auto im&#9;null&#9;null&#10;docum&#9;null&#9;null&#10;tod&#9;ACTION&#9;ActivateTODOToolWindow&#10;java m&#9;RUN_CONFIGURATION&#9;javaMap&#10;java&#9;PSI&#9;JAVA://Java.dataStructure.JavaHashset&#10;comment&#9;ACTION&#9;CommentGroup&#10;distraction mode&#9;ACTION&#9;ToggleDistractionFreeMode&#10;auto imp&#9;null&#9;null&#10;auto impor&#9;null&#9;null&#10;auto&#9;ACTION&#9;Debugger.AutoRenderer" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
@@ -600,13 +599,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499843383172</updated>
-    </task>
-    <task id="LOCAL-00008" summary="making changes in  the program comment">
-      <created>1504867688920</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1504867688920</updated>
     </task>
     <task id="LOCAL-00009" summary="making changes in  the program comment&#10;&#10;Signed-off-by: FilmonGhirmi &lt;gfilmongp@gmail.com&gt;">
       <created>1504868449938</created>
@@ -944,7 +936,14 @@
       <option name="project" value="LOCAL" />
       <updated>1506628942071</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="adding content to the README.md file">
+      <created>1507613987539</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1507613987542</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TodoView">
@@ -962,6 +961,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="720" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32692307" sideWeight="0.49676898" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2976" sideWeight="0.46796876" order="7" side_tool="false" content_ui="tabs" />
@@ -969,7 +969,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2688" sideWeight="0.5129241" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.392" sideWeight="0.52342486" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48" sideWeight="0.48707592" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48" sideWeight="0.48707592" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2656" sideWeight="0.49676898" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17285945" sideWeight="0.48418158" order="0" side_tool="false" content_ui="combo" />
@@ -1339,6 +1339,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
           <caret line="20" column="64" lean-forward="false" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1354,6 +1355,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1482,8 +1484,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/workingArea/BST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        <state relative-caret-position="241">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
             <element signature="e#1053#1054#0" expanded="true" />
             <element signature="e#1080#1081#0" expanded="true" />

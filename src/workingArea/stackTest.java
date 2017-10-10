@@ -1,5 +1,7 @@
 package workingArea;
-import java.util.*;
+
+import java.util.PriorityQueue;
+import java.util.Stack;
 
 /**
  * Created by
@@ -17,7 +19,7 @@ public class stackTest {
     public static void main(String[] args) {
         Stack<Number>  stack = new Stack<>();
         PriorityQueue<String>  queue = new PriorityQueue<>();
-        Queue<Character> queuelist = new LinkedList<>();
+       // Queue<Character> queuelist = new LinkedList<>();
         //queuelist.remove();
 
         queue.offer("filmon");
