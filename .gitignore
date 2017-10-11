@@ -1,0 +1,6 @@
+# files used by mac operating system .
+.DS_Store
+src/.DS_Store
+
+# Compiled java class files , are excluded.
+out/
